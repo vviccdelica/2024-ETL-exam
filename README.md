@@ -11,7 +11,7 @@ Data manipulation purely done through dataframe processing.
 > **Results:**
 > `test_pandas.csv`
 
-*SQL Solution:*
+**SQL Solution:**
 Executed SQL query both on Python and SQLite environment, respectively through Jupyter and DB Browser.
 > **Code:**
 > `solution_sqlite.ipynb`
